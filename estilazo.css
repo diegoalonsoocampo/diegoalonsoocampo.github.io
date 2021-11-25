@@ -1,0 +1,199 @@
+body{
+	background-color:#FFFFF7;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+	}
+
+
+ul li{
+	font-family:'calibri light';
+	text-align: justify;
+	margin-left: 750px;
+	color:skyblue ;
+	}
+
+
+h1{
+	
+	text-align: center;
+	padding-top:2%;
+	padding-right:4%;
+	padding-bottom:2%;
+	padding-left:2%;
+	border: 1px solid #FF0000;
+	margin-left:40%;
+	margin-right:37%;
+	}
+ol li{
+	
+	text-align:left;
+	margin-left: 19%;
+	color:#000000;
+	margin-right: 25%;
+		}
+
+ul li{
+	
+	text-align:justify;
+	margin-left: 45%;
+	color:#000000;
+	}
+
+
+hr{
+	display: ;
+	border-color:#0000FF;
+	}
+
+table{
+	margin-left: 40%;
+	border-color: green;
+	border-spacing: 5
+	}
+/** div es para crear divisiones **/
+div{
+	text-decoration: underline; /* underline */
+	color: red;
+	
+	}
+/** span es para dividir una parte del resto sin modificar el resto **/
+span{
+	text-decoration: underline;
+	color: goldenrod;
+	text-shadow: 2px 2px 1px;
+
+}
+
+video{
+	margin-left:5% ;
+	margin-right: 10%;
+}
+
+a:visited {
+	 color: green; 
+
+}
+
+tr:hover { 
+	background-color: #ddd; 
+}
+
+img {
+	 opacity: 1.0; 
+	}
+
+
+tr:nth-child(even){
+	background-color: lightgray;
+
+}
+
+tr:nth-child(odd){
+	background-color: beige;
+}
+
+form{
+	border:1px solid;
+	border-color: black;
+	-webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    padding-bottom: 10px;
+    background-color: beige;
+    }
+input{
+	-webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    background-color: limegreen;	
+}
+
+h3{
+	text-align: center;
+
+}
+
+.imagender{
+	float: right;
+	padding: 1%;
+
+}
+
+.imagenizq{
+	float: all;
+	margin-left:4%;
+	margin-right:1%;
+	padding: 1%;	
+		}
+
+.textoder{
+	clear: left;
+	margin-left: 5%;
+	}
+
+
+
+.marron{
+	color: brown;
+	background-color: F3E5AB;
+	text-decoration: overline;
+	border: 5px;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+.pozas{
+	color: skyblue;
+	background-color: F3E5AB;
+	text-decoration: line-through;
+	border: 5px;
+	text-transform: uppercase;
+	margin-right: 15%;
+	clear: left;
+	margin-left: 12%;
+}
+
+.tabladistancias{
+	margin-left: 26%;
+
+
+}
+.titulodistancias{
+	text-align: center;
+	padding-top:2%;
+	padding-right:2%;
+	padding-bottom:1%;
+	padding-left:2%;
+	border: 1px solid #FF0000;
+	margin-left:34%;
+	margin-right:34%;
+	}
+
+.titulos{
+	text-align: center;
+	padding-top:2%;
+	padding-right:2%;
+	padding-bottom:1%;
+	padding-left:2%;
+	border: 1px solid #FF0000;
+	margin-left:34%;
+	margin-right:34%;
+}
+
+.movimiento{
+
+	margin-left: 26%;
+}
+
+.videoindex{
+	margin-left: 20%;
+
+}
+
+.tablaindex{
+	margin-left: 35%;
+	margin-right: 20%;
+}
+
+form{
+	margin-left: 20%;
+	margin-right: 20%;
+}
